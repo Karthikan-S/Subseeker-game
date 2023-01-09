@@ -1,0 +1,5 @@
+- You are spawned in as the scuba diver
+- Your objective is to reach the submarine once you reach the submarine you win
+- However be careful of the shark if you hit the shark on your way to the submarine, its game over
+- Move the scuba diver with WASD and make your way to the sub without hitting the shark
+- Have Fun!
